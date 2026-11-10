@@ -1,19 +1,20 @@
-<svg width="860" height="150" viewBox="0 0 860 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="860" height="150" xmlns="http://www.w3.org/2000/svg">
   <style>
-    
-    .bg { fill: #0a1128; stroke: #1e3a8a; stroke-width: 2px; }
-    .item { font-family: monospace, monospace; font-size: 14px; fill: #e2e8f0; }
-    .accent { fill: #38bdf8; font-weight: bold; }
-    .header { font-family: monospace, monospace; font-size: 12px; fill: #64748b; }
-    
+    .bg { fill: #0a1128; rx: 10px; }
+    .border { stroke: #1e3a8a; stroke-width: 2px; }
+    .label { font-family: monospace; font-size: 14px; fill: #38bdf8; font-weight: bold; }
+    .desc { font-family: monospace; font-size: 14px; fill: #e2e8f0; }
   </style>
-  <rect width="860" height="150" rx="10" class="bg" />
+  <rect width="860" height="150" class="bg border" />
   <circle cx="25" cy="20" r="6" fill="#ff5f56" />
   <circle cx="45" cy="20" r="6" fill="#ffbd2e" />
   <circle cx="65" cy="20" r="6" fill="#27c93f" />
-  <text x="90" y="24" class="header">carlos@linux:~ - now.yml</text>
+  <text x="90" y="24" font-family="monospace" font-size="12" fill="#64748b">carlos@linux:~ - now.yml</text>
   <line x1="0" y1="38" x2="860" y2="38" stroke="#1e3a8a" stroke-width="1" />
 
-  <text x="30" y="75" class="item"><tspan class="accent">⚡ Aprendiendo:</tspan> Data Engineering Pipelines & Arquitectura de Datos</text>
-  <text x="30" y="105" class="item"><tspan class="accent">🚀 Construyendo:</tspan> Herramientas de automatización con Python y modelado SQL</text>
+  <text x="30" y="75" class="label">⚡ Aprendiendo:</text>
+  <text x="180" y="75" class="desc">Data Pipelines | Arquitectura de Datos</text>
+
+  <text x="30" y="110" class="label">🚀 Construyendo:</text>
+  <text x="180" y="110" class="desc">Herramientas de automatización con Python y SQL</text>
 </svg>
