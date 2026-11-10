@@ -1,0 +1,23 @@
+<svg fill="none" width="860" height="210" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0a1128; rx: 10px; }
+    .border { stroke: #1e3a8a; stroke-width: 2px; }
+    .title { font-family: monospace; font-size: 15px; fill: #38bdf8; font-weight: bold; }
+    .desc { font-family: monospace; font-size: 13px; fill: #94a3b8; }
+    .tag { font-family: monospace; font-size: 12px; fill: #4cc9f0; }
+  </style>
+  <rect width="860" height="210" class="bg border" />
+  <circle cx="25" cy="20" r="6" fill="#ff5f56" />
+  <circle cx="45" cy="20" r="6" fill="#ffbd2e" />
+  <circle cx="65" cy="20" r="6" fill="#27c93f" />
+  <text x="90" y="24" font-family="monospace" font-size="12" fill="#64748b">carlos@linux:~ - featured_projects</text>
+  <line x1="0" y1="38" x2="860" y2="38" stroke="#1e3a8a" stroke-width="1" />
+
+  <text x="30" y="70" class="title">✦ Tarify Price Tracker</text>
+  <text x="30" y="90" class="desc">API backend para monitoreo de precios, base de datos relacional y despliegue en Docker.</text>
+  <text x="30" y="108" class="tag">[Python · FastAPI · PostgreSQL · Docker]</text>
+
+  <text x="30" y="145" class="title">✦ Spider-Man: Brand New Day</text>
+  <text x="30" y="165" class="desc">Aplicación web interactiva desarrollada con TypeScript y manipulación dinámica del DOM.</text>
+  <text x="30" y="183" class="tag">[TypeScript · HTML5 · CSS3]</text>
+</svg>
