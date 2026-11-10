@@ -1,42 +1,45 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Terminal de Carlos Granados" width="860">
+  <img src="assets/banner.svg" alt="Carlos Granados, Software Engineering student and aspiring Data Engineer" width="100%">
 </p>
 
 ## `$ whoami`
 
-<p align="center">
-  <img src="assets/whoami.svg" alt="fastfetch de Carlos Granados" width="860">
+<p>
+  <img src="assets/avatar.png" width="140" align="left" hspace="10" alt="Carlos Granados">
+  <img src="assets/whoami.svg" width="620" alt="fastfetch output for Carlos Granados">
 </p>
+
+<br clear="all">
 
 ## `$ cat tech-stack.yaml`
 
-| `carlos@linux:~$ cat tech-stack.yaml` | |
-| :--- | :--- |
-| `├─ ✦ languages:` <img src="https://cdn.simpleicons.org/python/38BDF8" height="22" alt="Python"> <img src="https://cdn.simpleicons.org/typescript/38BDF8" height="22" alt="TypeScript"> <img src="https://cdn.simpleicons.org/sql/38BDF8" height="22" alt="SQL"> <br> `Python · TypeScript · SQL` | `├─ ◈ databases:` <img src="https://cdn.simpleicons.org/postgresql/38BDF8" height="22" alt="PostgreSQL"> <img src="https://cdn.simpleicons.org/mysql/38BDF8" height="22" alt="MySQL"> <br> `PostgreSQL · MySQL` |
-| `├─ ◆ tools_infra:` <img src="https://cdn.simpleicons.org/docker/38BDF8" height="22" alt="Docker"> <img src="https://cdn.simpleicons.org/git/38BDF8" height="22" alt="Git"> <img src="https://cdn.simpleicons.org/github/E2E8F0" height="22" alt="GitHub"> <br> `Docker · Git · GitHub` | `╰─ ▣ environment:` <img src="https://cdn.simpleicons.org/linux/4CC9F0" height="22" alt="Linux"> <img src="https://cdn.simpleicons.org/ubuntu/4CC9F0" height="22" alt="Ubuntu"> <br> `Linux (WSL2) · Ubuntu` |
-| `status: learning  ·  environment: development` | |
+| `carlos@ubuntu:~$ cat tech-stack.yaml` | |
+| --- | --- |
+| `├─ ✦ languages:`<br><img src="https://cdn.simpleicons.org/python/FF2C2C" height="26" alt="Python"> <img src="https://cdn.simpleicons.org/typescript/FF2C2C" height="26" alt="TypeScript"> <img src="https://cdn.simpleicons.org/javascript/FF2C2C" height="26" alt="JavaScript"><br>`Python · TypeScript · JavaScript` | `├─ ◈ backend_data:`<br><img src="https://cdn.simpleicons.org/fastapi/FF2C2C" height="26" alt="FastAPI"> <img src="https://cdn.simpleicons.org/postgresql/FF2C2C" height="26" alt="PostgreSQL"><br>`FastAPI · PostgreSQL · SQL` |
+| `├─ ◆ infra_tools:`<br><img src="https://cdn.simpleicons.org/docker/FF2C2C" height="26" alt="Docker"> <img src="https://cdn.simpleicons.org/git/FF2C2C" height="26" alt="Git"> <img src="https://cdn.simpleicons.org/github/FF2C2C" height="26" alt="GitHub"><br>`Docker · Git · GitHub` | `╰─ ▣ environment:`<br><img src="https://cdn.simpleicons.org/ubuntu/FF2C2C" height="26" alt="Ubuntu"><br>`Ubuntu · WSL2 · VS Code · Windows` |
+| `status: learning · focus: data_engineering` | |
 
 ## `$ ls projects/`
 
-<p align="center">
-  <img src="assets/projects.svg" alt="Proyectos de Carlos Granados" width="860">
-</p>
+![Projects by Carlos Granados](assets/projects.svg)
 
-<p align="center">
-  <a href="https://github.com/CarlosGranados-devs/Tarify-Price-Tracker"><img src="https://img.shields.io/badge/tarify__tracker-repository-1E3A8A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0A1128" alt="Tarify Repository"></a>
-  <a href="https://github.com/CarlosGranados-devs/GESTI-N-DE-SERVIDORES-WEB"><img src="https://img.shields.io/badge/servidores__web-repository-1E3A8A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0A1128" alt="Servidores Web"></a>
-</p>
+[![tarify-price-tracker repository](https://img.shields.io/badge/tarify--price--tracker-repository-FF2C2C?style=for-the-badge&logo=github&logoColor=FF2C2C&labelColor=0A0A0C)](https://github.com/CarlosGranados-devs/tarify-price-tracker) [![hanoi-game repository](https://img.shields.io/badge/hanoi--game-repository-FF2C2C?style=for-the-badge&logo=github&logoColor=FF2C2C&labelColor=0A0A0C)](https://github.com/CarlosGranados-devs/hanoi-game)
 
 ## `$ cat now.yml`
 
-<p align="center">
-  <img src="assets/now.svg" alt="Aprendiendo y construyendo" width="860">
-</p>
+![What Carlos is working on right now](assets/now.svg)
 
 ## `$ git log --stat`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarlosGranados-devs&background=0A1128&border=1E3A8A&stroke=38BDF8&ring=4CC9F0&fire=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=4CC9F0&dates=1E3A8A&border_radius=12" alt="GitHub streak">
+[![GitHub streak](https://streak-stats.demolab.com?user=CarlosGranados-devs&background=0A0A0C&border=FF2C2C&stroke=8F1C1C&ring=FF2C2C&fire=FF2C2C&currStreakNum=E6E6E6&sideNums=E6E6E6&currStreakLabel=FF2C2C&sideLabels=7D7D85&dates=7D7D85&border_radius=12)](https://github.com/CarlosGranados-devs)
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosGranados-devs&show_icons=true&border_color=8F1C1C&bg_color=0A0A0C&title_color=FF2C2C&icon_color=FF2C2C&text_color=E6E6E6&border_radius=12" width="49%" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGranados-devs&layout=compact&langs_count=6&border_color=8F1C1C&bg_color=0A0A0C&title_color=FF2C2C&text_color=E6E6E6&border_radius=12" width="49%" alt="Most used languages">
 </p>
 
-<p align="center"><code>// always processing data. always building.</code></p>
+## `$ ./contact.sh`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosgranados--data-FF2C2C?style=for-the-badge&labelColor=0A0A0C)](https://www.linkedin.com/in/carlosgranados-data/) [![Instagram](https://img.shields.io/badge/Instagram-its.krloz-FF2C2C?style=for-the-badge&labelColor=0A0A0C)](https://www.instagram.com/its.krloz/) [![GitHub](https://img.shields.io/badge/GitHub-CarlosGranados--devs-FF2C2C?style=for-the-badge&logo=github&logoColor=FF2C2C&labelColor=0A0A0C)](https://github.com/CarlosGranados-devs)
+
+`// raw data in, clean ideas out.`
