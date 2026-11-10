@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 392" width="680" height="392" font-family="'JetBrains Mono','Fira Code','Cascadia Code','DejaVu Sans Mono',Consolas,monospace" role="img" aria-label="fastfetch output for Carlos Granados">
+<title>fastfetch output for Carlos Granados</title>
+<defs>
+<clipPath id="win"><rect width="680" height="392" rx="12"/></clipPath>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity="0.035"/></pattern>
+<linearGradient id="sweep" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff2c2c" stop-opacity="0"/><stop offset="0.5" stop-color="#ff2c2c" stop-opacity="0.08"/><stop offset="1" stop-color="#ff2c2c" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect x="0.75" y="0.75" width="678.5" height="390.5" rx="12" fill="#0a0a0c" stroke="#ff2c2c" stroke-opacity="0.45" stroke-width="1.5"/>
+<g clip-path="url(#win)">
+<rect width="680" height="36" fill="#141114"/>
+<line x1="0" y1="36" x2="680" y2="36" stroke="#ff2c2c" stroke-opacity="0.25"/>
+<text x="340.0" y="23" font-size="13" fill="#7d7d85" text-anchor="middle">carlos@ubuntu: ~</text>
+<circle cx="614" cy="18" r="7" fill="#2a2a2e"/>
+<circle cx="636" cy="18" r="7" fill="#2a2a2e"/>
+<circle cx="658" cy="18" r="7" fill="#ff2c2c"/>
+<path d="M655 15 L661 21 M661 15 L655 21" stroke="#0a0a0c" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M610 18 H618" stroke="#7d7d85" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="632.5" y="14.5" width="7" height="7" fill="none" stroke="#7d7d85" stroke-width="1.4"/>
+<clipPath id="c2"><rect x="28" y="57" width="0" height="23"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0;144.0;153.0;162.0;171.0;180.0;189.0;198.0;207.0;216.0;225.0;234.0" calcMode="discrete" dur="1.30s" begin="0.30s" fill="freeze"/></rect></clipPath><text x="28" y="72" font-size="15" textLength="234.0" lengthAdjust="spacing" clip-path="url(#c2)" xml:space="preserve"><tspan fill="#ff2c2c" font-weight="700">carlos@ubuntu</tspan><tspan fill="#7d7d85" font-weight="400">:~$ </tspan><tspan fill="#e6e6e6" font-weight="400">fastfetch</tspan></text>
+<g><rect x="28" y="58" width="7.6" height="17" fill="#ff2c2c"><animate attributeName="x" values="28.0;37.0;46.0;55.0;64.0;73.0;82.0;91.0;100.0;109.0;118.0;127.0;136.0;145.0;154.0;163.0;172.0;181.0;190.0;199.0;208.0;217.0;226.0;235.0;244.0;253.0;262.0" calcMode="discrete" dur="1.30s" begin="0.30s" fill="freeze"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect><set attributeName="opacity" to="0" begin="1.65s" fill="freeze"/></g>
+<g opacity="0"><text x="28" y="118" font-size="16" font-weight="700" fill="#ff2c2c" xml:space="preserve">  ____   ____ </text><animate attributeName="opacity" from="0" to="1" begin="1.90s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="28" y="140" font-size="16" font-weight="700" fill="#ff2c2c" xml:space="preserve"> / ___| / ___|</text><animate attributeName="opacity" from="0" to="1" begin="2.02s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="28" y="162" font-size="16" font-weight="700" fill="#ff2c2c" xml:space="preserve">| |    | |  _ </text><animate attributeName="opacity" from="0" to="1" begin="2.14s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="28" y="184" font-size="16" font-weight="700" fill="#ff2c2c" xml:space="preserve">| |___ | |_| |</text><animate attributeName="opacity" from="0" to="1" begin="2.26s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="28" y="206" font-size="16" font-weight="700" fill="#ff2c2c" xml:space="preserve"> \____| \____|</text><animate attributeName="opacity" from="0" to="1" begin="2.38s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="200" y="112" font-size="16" font-weight="700" fill="#ff2c2c">carlos<tspan fill="#7d7d85">@</tspan>ubuntu</text><line x1="200" y1="124" x2="338" y2="124" stroke="#7d7d85" stroke-opacity="0.6"/><animate attributeName="opacity" from="0" to="1" begin="1.90s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="200" y="150" font-size="14" font-weight="700" fill="#ff2c2c">Role</text><text x="290" y="150" font-size="14" fill="#e6e6e6">Software Engineering Student</text><animate attributeName="opacity" from="0" to="1" begin="2.20s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="200" y="172" font-size="14" font-weight="700" fill="#ff2c2c">Focus</text><text x="290" y="172" font-size="14" fill="#e6e6e6">Data Engineering</text><animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="200" y="194" font-size="14" font-weight="700" fill="#ff2c2c">Location</text><text x="290" y="194" font-size="14" fill="#e6e6e6">El Salvador</text><animate attributeName="opacity" from="0" to="1" begin="2.50s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="200" y="216" font-size="14" font-weight="700" fill="#ff2c2c">OS</text><text x="290" y="216" font-size="14" fill="#e6e6e6">Ubuntu (WSL2) on Windows</text><animate attributeName="opacity" from="0" to="1" begin="2.65s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="200" y="238" font-size="14" font-weight="700" fill="#ff2c2c">Editor</text><text x="290" y="238" font-size="14" fill="#e6e6e6">Visual Studio Code</text><animate attributeName="opacity" from="0" to="1" begin="2.80s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="200" y="260" font-size="14" font-weight="700" fill="#ff2c2c">Langs</text><text x="290" y="260" font-size="14" fill="#e6e6e6">Python · TypeScript · JavaScript</text><animate attributeName="opacity" from="0" to="1" begin="2.95s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="200" y="282" font-size="14" font-weight="700" fill="#ff2c2c">Learning</text><text x="290" y="282" font-size="14" fill="#e6e6e6">SQL · Docker</text><animate attributeName="opacity" from="0" to="1" begin="3.10s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><text x="200" y="304" font-size="14" font-weight="700" fill="#ff2c2c">Seeking</text><text x="290" y="304" font-size="14" fill="#e6e6e6">Internships · Scholarships</text><animate attributeName="opacity" from="0" to="1" begin="3.25s" dur="0.3s" fill="freeze"/></g>
+<g opacity="0"><rect x="200" y="330" width="24" height="14" rx="2" fill="#ff2c2c"/><rect x="228" y="330" width="24" height="14" rx="2" fill="#ff5252"/><rect x="256" y="330" width="24" height="14" rx="2" fill="#ff7a7a"/><rect x="284" y="330" width="24" height="14" rx="2" fill="#e02424"/><rect x="312" y="330" width="24" height="14" rx="2" fill="#c01e1e"/><rect x="340" y="330" width="24" height="14" rx="2" fill="#a01818"/><rect x="368" y="330" width="24" height="14" rx="2" fill="#7a1313"/><rect x="396" y="330" width="24" height="14" rx="2" fill="#4a0d0d"/><animate attributeName="opacity" from="0" to="1" begin="3.60s" dur="0.4s" fill="freeze"/></g>
+<g opacity="0"><text x="28" y="364" font-size="15" textLength="153.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#ff2c2c" font-weight="700">carlos@ubuntu</tspan><tspan fill="#7d7d85" font-weight="400">:~$ </tspan></text><rect x="181.0" y="350" width="7.6" height="17" fill="#ff2c2c"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect><animate attributeName="opacity" from="0" to="1" begin="4.10s" dur="0.4s" fill="freeze"/></g>
+<rect width="680" height="392" fill="url(#scan)"/>
+<rect x="0" y="-80" width="680" height="80" fill="url(#sweep)"><animate attributeName="y" from="-80" to="392" dur="7s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
