@@ -1,29 +1,19 @@
-<svg width="860" height="240" viewBox="0 0 860 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="860" height="150" viewBox="0 0 860 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     
     .bg { fill: #0a1128; stroke: #1e3a8a; stroke-width: 2px; }
-    .label { font-family: monospace, monospace; font-size: 14px; fill: #38bdf8; font-weight: bold; }
-    .val { font-family: monospace, monospace; font-size: 14px; fill: #e2e8f0; }
+    .item { font-family: monospace, monospace; font-size: 14px; fill: #e2e8f0; }
+    .accent { fill: #38bdf8; font-weight: bold; }
     .header { font-family: monospace, monospace; font-size: 12px; fill: #64748b; }
     
   </style>
-  <rect width="860" height="240" rx="10" class="bg" />
+  <rect width="860" height="150" rx="10" class="bg" />
   <circle cx="25" cy="20" r="6" fill="#ff5f56" />
   <circle cx="45" cy="20" r="6" fill="#ffbd2e" />
   <circle cx="65" cy="20" r="6" fill="#27c93f" />
-  <text x="90" y="24" class="header">carlos@linux:~ - fastfetch</text>
+  <text x="90" y="24" class="header">carlos@linux:~ - now.yml</text>
   <line x1="0" y1="38" x2="860" y2="38" stroke="#1e3a8a" stroke-width="1" />
-  
-  <polygon points="110,65 145,115 110,165 75,115" stroke="#38bdf8" stroke-width="2" fill="none" />
-  <polygon points="110,80 130,115 110,150 90,115" stroke="#4cc9f0" stroke-width="2" fill="none" />
-  <circle cx="110" cy="115" r="5" fill="#e2e8f0" />
 
-  <text x="210" y="70" class="label">carlos @ univo</text>
-  <line x1="210" y1="80" x2="550" y2="80" stroke="#1e3a8a" stroke-width="1" />
-
-  <text x="210" y="105" class="label">OS</text><text x="340" y="105" class="val">Linux (WSL2 / Ubuntu)</text>
-  <text x="210" y="130" class="label">Focus</text><text x="340" y="130" class="val">Data Engineering & Data Pipelines</text>
-  <text x="210" y="155" class="label">Core Stack</text><text x="340" y="155" class="val">Python · SQL · PostgreSQL · Docker</text>
-  <text x="210" y="180" class="label">Dev Tools</text><text x="340" y="180" class="val">TypeScript · FastAPI · Git</text>
-  <text x="210" y="205" class="label">Editor</text><text x="340" y="205" class="val">Visual Studio Code</text>
+  <text x="30" y="75" class="item"><tspan class="accent">⚡ Aprendiendo:</tspan> Data Engineering Pipelines & Arquitectura de Datos</text>
+  <text x="30" y="105" class="item"><tspan class="accent">🚀 Construyendo:</tspan> Herramientas de automatización con Python y modelado SQL</text>
 </svg>
